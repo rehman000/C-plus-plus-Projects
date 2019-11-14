@@ -1,9 +1,8 @@
-# This is a particle Explosion program:
+# C++ Projects Repository 
 
-This was made using C++, and the SDL2 Library.
-
-SDL Library: https://www.libsdl.org/
-
-SDL stands for Simple DirectMedia Layer 
+- 1 This is a particle Explosion program:
+- This was made using C++, and the SDL2 Library.
+- SDL Library: https://www.libsdl.org/
+- SDL stands for Simple DirectMedia Layer 
 
 ![Particle Fire Explosion](/images/ParticleExplosionSDL.png)
