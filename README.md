@@ -1,6 +1,6 @@
 # C++ Projects Repository 
 
-- 1 This is a particle Explosion program:
+- Particle Motion Folder contains the Particle Explosion program:
 - This was made using C++, and the SDL2 Library.
 - SDL Library: https://www.libsdl.org/
 - SDL stands for Simple DirectMedia Layer 
